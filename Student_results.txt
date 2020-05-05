@@ -1,0 +1,7 @@
+Student Number:S1234    Total Marks:6
+Student Number:S2345    Total Marks:31
+Student Number:S3456    Total Marks:33
+Student Number:S4567    Total Marks:0
+Student Number:S5678    Total Marks:5
+
+
